@@ -1,5 +1,6 @@
 Hi there 👋 
-I'm mariam shahin , a computer science student at mansoura university , I’m currently learning cyber sceurity and web deveolpment.
+
+- I'm mariam shahin , a computer science student at mansoura university , I’m currently learning cyber sceurity and web deveolpment.
 
 <!--
 **Mariom696/Mariom696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
