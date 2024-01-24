@@ -1,7 +1,8 @@
-Hi there 👋 
-
+### Hi there 👋 
 
 - I'm mariam shahin , a computer science student at mansoura university , I’m currently learning cyber sceurity and web deveolpment.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariam&hide=contribs,prs)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="480" height="452"/>
 </div>
