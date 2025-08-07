@@ -6,7 +6,7 @@ I'm a computer science student at mansoura university , I’m currently learning
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,cs,html,js,linux,python&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cs,html,js,linux,python,django&perline=6)](https://skillicons.dev)
 
 ### contact info 
 
