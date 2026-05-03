@@ -12,6 +12,5 @@ I'm a computer science student at mansoura university, I’m currently learning 
 
 [![My Skills](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/marioo696)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/marioo696?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
